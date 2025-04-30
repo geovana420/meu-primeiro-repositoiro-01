@@ -1,5 +1,6 @@
 // Discente: Geonvana Linhares
 // Doscente: Ana Beatriz 
+// Curso: Técnico em Informática
 
 n = 3
 x = 4
